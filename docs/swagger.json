@@ -1,0 +1,18 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "aioc",
+        "title": "aioc",
+        "contact": {
+            "name": "infrawaves",
+            "email": "liufanwh@126.com"
+        },
+        "license": {
+            "name": "MIT"
+        },
+        "version": "2.0"
+    },
+    "host": "127.0.0.1:8000",
+    "basePath": "/api/v1",
+    "paths": {}
+}

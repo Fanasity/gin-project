@@ -1,0 +1,13 @@
+basePath: /api/v1
+host: 127.0.0.1:8000
+info:
+  contact:
+    email: liufanwh@126.com
+    name: infrawaves
+  description: aioc
+  license:
+    name: MIT
+  title: aioc
+  version: "2.0"
+paths: {}
+swagger: "2.0"
